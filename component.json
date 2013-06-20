@@ -1,0 +1,16 @@
+{
+  "name": "history",
+  "version": "0.0.0",
+  "description": "Manipulate browser session history.",
+  "repo": "anchorjs/history",
+  "main": "main.js",
+  "scripts": [
+    "main.js",
+    "lib/history.js",
+  ],
+  "dependencies": {
+    "anchorjs/class": "*",
+    "anchorjs/events": "*"
+  },
+  "license": "MIT"
+}
