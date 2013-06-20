@@ -6,7 +6,7 @@
   "main": "main.js",
   "scripts": [
     "main.js",
-    "lib/history.js",
+    "lib/history.js"
   ],
   "dependencies": {
     "anchorjs/class": "*",
